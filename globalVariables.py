@@ -19,13 +19,6 @@ snake_list = []
 apple_pos_x, apple_pos_y = None, None
 score = 0
 loggedScores = []
-loggedAverageQValues = []
-qMaxBuffer = []
 
 numberOfSteps = 0
 
-#line1 = []
-#fig = None
-#ax = None
-
-pretrained = True
